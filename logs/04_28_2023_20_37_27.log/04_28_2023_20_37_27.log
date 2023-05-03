@@ -1,0 +1,6 @@
+[ 2023-04-28 20:37:30,999 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-28 20:37:31,034 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
+[ 2023-04-28 20:37:34,497 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:37:34] "GET /?age=36.0&ratings=4.2&rlat=30.327968%09&rlon=78.046106&dlat=30.397968&dlon=78.116106&torder=21:55&tpicked=22:10&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=3.0&fest=No&city=Metropolitian HTTP/1.1" 200 -
+[ 2023-04-28 20:37:39,567 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:37:39] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
+[ 2023-04-28 20:37:42,553 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:37:42] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
+[ 2023-04-28 20:37:55,514 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\lenovo\\Documents\\ineuron\\projects\\delivery_time_prediction\\app.py', reloading
