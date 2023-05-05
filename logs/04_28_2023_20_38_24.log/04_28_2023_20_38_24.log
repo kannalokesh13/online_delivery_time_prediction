@@ -1,7 +1,0 @@
-[ 2023-04-28 20:38:27,836 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-28 20:38:27,915 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
-[ 2023-04-28 20:38:31,283 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:38:31] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
-[ 2023-04-28 20:38:36,586 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:38:36] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
-[ 2023-04-28 20:38:38,178 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:38:38] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
-[ 2023-04-28 20:38:39,164 ] 186 werkzeug - INFO - 127.0.0.1 - - [28/Apr/2023 20:38:39] "GET /?age=&ratings=&rlat=&rlon=&dlat=&dlon=&torder=&tpicked=&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=&fest=Yes&city=Metropolitian HTTP/1.1" 200 -
-[ 2023-04-28 20:40:28,968 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\lenovo\\Documents\\ineuron\\projects\\delivery_time_prediction\\app.py', reloading

@@ -1,4 +1,0 @@
-[ 2023-04-29 12:00:24,342 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-29 12:00:24,373 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
-[ 2023-04-29 12:00:42,916 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 12:00:42] "GET / HTTP/1.1" 200 -
-[ 2023-04-29 12:01:08,111 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 12:01:08] "GET /review?age=36.0&ratings=4.2&rlat=30.327968&rlon=78.046106&dlat=30.397968&dlon=78.116106&torder=21:55&tpicked=22:10&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=3.0&fest=Yes&city=Metropolitian HTTP/1.1" 200 -

@@ -1,8 +1,0 @@
-[ 2023-04-29 11:32:33,161 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-29 11:32:33,193 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
-[ 2023-04-29 11:32:39,620 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:32:39] "GET / HTTP/1.1" 200 -
-[ 2023-04-29 11:33:01,710 ] 46 root - INFO - some where the error occured
-[ 2023-04-29 11:33:01,942 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:33:01] "[35m[1mGET /review?age=36.0&ratings=4.2&rlat=30.327968&rlon=78.046106&dlat=30.397968&dlon=78.116106&torder=21:55&tpicked=22:10&weather=Fog&road_traffic=Jam&vehicle_cond=2&top=Snack&tov=motorcycle&multi_deli=3.0&fest=Yes&city=Metropolitian HTTP/1.1[0m" 500 -
-[ 2023-04-29 11:33:02,142 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:33:02] "[36mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-[ 2023-04-29 11:33:03,326 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:33:03] "[36mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-[ 2023-04-29 11:33:04,094 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:33:04] "[36mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

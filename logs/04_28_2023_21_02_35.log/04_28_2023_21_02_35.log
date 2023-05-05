@@ -1,3 +1,0 @@
-[ 2023-04-28 21:02:38,930 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-28 21:02:38,961 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
-[ 2023-04-28 21:06:33,589 ] 186 werkzeug - INFO -  * Detected change in 'c:\\users\\lenovo\\documents\\ineuron\\projects\\delivery_time_prediction\\app.py', reloading

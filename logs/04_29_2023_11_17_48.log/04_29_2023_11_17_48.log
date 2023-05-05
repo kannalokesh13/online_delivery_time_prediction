@@ -1,5 +1,0 @@
-[ 2023-04-29 11:17:52,369 ] 186 werkzeug - WARNING -  * Debugger is active!
-[ 2023-04-29 11:17:52,400 ] 186 werkzeug - INFO -  * Debugger PIN: 865-909-524
-[ 2023-04-29 11:19:48,037 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:19:48] "GET / HTTP/1.1" 200 -
-[ 2023-04-29 11:19:48,597 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:19:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-[ 2023-04-29 11:19:50,724 ] 186 werkzeug - INFO - 127.0.0.1 - - [29/Apr/2023 11:19:50] "GET / HTTP/1.1" 200 -
