@@ -24,7 +24,8 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info('Data Ingestion methods Starts')
         try:
-            df=pd.read_csv(os.path.join('notebooks/data','newly_createdData.csv'))
+            df=pd.read_csv(os.path.join('notebooks/data','importedData.csv'))
+            df.drop("Unnamed: 0",axis=1,inplace=True)
             logging.info('Dataset read as pandas Dataframe')
 
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path),exist_ok=True)

@@ -5,4 +5,6 @@ seaborn
 gunicorn
 scikit-learn
 flask
+pymongo[srv]
+dnspython
 -e .
